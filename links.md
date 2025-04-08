@@ -48,13 +48,23 @@
 - [**Playwright**](https://playwright.dev/): E2E 테스트
 - [**Storybook**](https://storybook.js.org/): UI 컴포넌트 문서화, 테스트
 - **Chrome DevTools**: 브라우저에서 HTML, CSS, 네트워크 요청 등을 분석하고 디버깅하는 도구 (Chrome 내장)
+- [**Chrome for Developers: Lighthouse**](https://developer.chrome.com/docs/lighthouse?hl=ko): 성능,접근성,PWA,SEO 검사도구인 Lighthouse 문서
+- [**PageSpeed Insights**](https://pagespeed.web.dev/?hl=ko): 웹페이지 속도 측정 도구
 
 ## **6. 배포 및 호스팅**
 
-- [**Vercel**](https://vercel.com/): 웹사이트 배포 플랫폼
-- [**Netlify**](https://www.netlify.com/): 웹사이트 배포 플랫폼
+- [**Vercel**](https://vercel.com/): 웹앱 배포 플랫폼
+- [**Netlify**](https://www.netlify.com/): 웹앱 배포 플랫폼
+- [**AWS Amplify**](https://www.google.com/aclk?sa=l&ai=DChcSEwiaqvTKtseMAxXn2hYFHVz8Ho8YABAAGgJ0bA&ae=2&aspm=1&co=1&ase=5&gclid=Cj0KCQjw782_BhDjARIsABTv_JA76ETk8FVYvP2KTyygtQUoMt-kMx56WoWv4gyWv49_nkxxj_VLIUQaApBIEALw_wcB&ei=5I70Z8L0E9jb2roP-qC7yQY&sig=AOD64_1ZB__lb6mtjP_OLY9YW4d55ihCVA&q&sqi=2&adurl&ved=2ahUKEwjC9u3KtseMAxXYrVYBHXrQLmkQ0Qx6BAgIEAE): 정적 웹앱 배포 플랫폼
+- [**Azure Static Web Apps**](https://azure.microsoft.com/ko-kr/products/app-service/static): 정적 웹앱 배포 플랫폼
 
-## 7. 그 외 유용한 사이트
+## 7. SEO
+
+- [**SEO - Wikipedia**](https://en.wikipedia.org/wiki/Search_engine_optimization): SEO 설명, 영문 페이지가 훨씬 자세한 설명
+- [**SERP - Wikipedia**](https://en.wikipedia.org/wiki/Search_engine_results_page): Search engine results page(검색엔진이 보는 웹페이지) 설명
+- [**Google Search Console**](https://search.google.com/search-console/about): 웹사이트 트래픽, 성능 측정, 분석
+
+## 8. 그 외 유용한 사이트
 
 - [**CodePen**](https://codepen.io/trending): 코드 공유 및 실험을 위한 소셜 플랫폼으로 다양한 UI 샘플을 확인 가능
 
