@@ -25,9 +25,17 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+@media (prefers-color-scheme: dark) {
+  body {
+    background: linear-gradient(135deg, #232946 0%, #3a3a6a 100%);
+  }
+}
+
 /* Tailwind Typography(Prose) 커스터마이즈 */
 .prose h1 {
-  @apply text-4xl font-extrabold text-black dark:text-white mb-4;
+  @apply text-4xl font-extrabold text-black dark:text-white mb-2;
+  border-bottom: 2px solid #e5e7eb;
+  padding-bottom: 0.5rem;
 }
 .prose h2 {
   @apply text-2xl font-bold text-black dark:text-white mt-8 mb-3;
