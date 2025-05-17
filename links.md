@@ -1,4 +1,4 @@
-## **1. 학습 리소스**
+## 1. 학습 리소스
 
 - [**MDN Web Docs**](https://developer.mozilla.org/ko/): HTML, CSS, JavaScript 등 웹 기술에 대한 포괄적인 문서
 - [**Frontend Roadmap**](https://roadmap.sh/frontend): 프론트엔드 개발자가 따라야 할 단계별 학습 로드맵
@@ -6,7 +6,7 @@
 - [**You Don’t Know JS**](https://github.com/getify/You-Dont-Know-JS): JavaScript의 심층적인 이해를 돕는 무료 도서 시리즈
 - [**TypeScript**](https://www.typescriptlang.org/): TypeScript 언어와 관련된 문서 및 리소스
 
-## **2. 프레임워크 및 라이브러리**      
+## 2. 프레임워크 및 라이브러리
 
 - [**React**](https://ko.react.dev/): React를 배우고 사용하는 방법에 대한 가이드
 - [**Next.js**](https://nextjs.org/): React 기반 풀스택 프레임워크
@@ -22,7 +22,7 @@
 - [**shadcn/ui**](https://ui.shadcn.com/), [**daisyUI**](https://daisyui.com/) : Tailwind CSS 기반 UI 컴포넌트 라이브러리
 - [**NPM Trends**](https://npmtrends.com/): NPM 라이브러리 다운로드 수 비교
 
-## **3. 디자인 및 UI 리소스**
+## 3. 디자인 및 UI 리소스
 
 - [**Figma**](https://www.figma.com/), [**Zeplin**](https://zeplin.io/), [**Framer**](https://zeplin.io/): 디자인 도구
 - [**Favicon.io**](https://favicon.io/): favicon 생성기 및 아이콘 제작 도구
@@ -30,7 +30,7 @@
 - [**Color Hunt**](https://colorhunt.co/): 트렌디한 색상 팔레트를 제공하는 사이트
 - [**SVG Repo**](https://www.svgrepo.com/): 무료 SVG 아이콘 및 일러스트레이션 리소스
 
-## **4. 브라우저 호환성 및 성능**
+## 4. 브라우저 호환성 및 성능
 
 - [**Can I Use**](https://caniuse.com/): 특정 웹 기능의 브라우저 및 디바이스 호환성을 확인하는 사이트
 - [**PageSpeed Insights**](https://pagespeed.web.dev/): Google에서 제공하는 웹페이지 성능 분석 도구
@@ -40,7 +40,7 @@
 - [**Google Analytics**](https://analytics.google.com/): Google에서 제공하는 웹 분석, 모니터링 도구
 - [**Sentry**](https://sentry.io/): 웹 모니터링 도구
 
-## **5. 테스트 및 디버깅**
+## 5. 테스트 및 디버깅
 
 - [**Testing Library (RTL)**](https://testing-library.com/docs/): React 컴포넌트 테스트를 위한 라이브러리
 - [**Jest**](https://jestjs.io/): JavaScript 테스트 프레임워크
@@ -51,7 +51,7 @@
 - [**Chrome for Developers: Lighthouse**](https://developer.chrome.com/docs/lighthouse?hl=ko): 성능,접근성,PWA,SEO 검사도구인 Lighthouse 문서
 - [**PageSpeed Insights**](https://pagespeed.web.dev/?hl=ko): 웹페이지 속도 측정 도구
 
-## **6. 배포 및 호스팅**
+## 6. 배포 및 호스팅
 
 - [**Vercel**](https://vercel.com/): 웹앱 배포 플랫폼
 - [**Netlify**](https://www.netlify.com/): 웹앱 배포 플랫폼
